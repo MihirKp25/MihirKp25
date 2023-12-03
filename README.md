@@ -1,5 +1,5 @@
 # 💫 About Me:
-<p align="left">Hi, I am Mihir Patel from India</p> <p align="left">I’m currently studying Computer Science and engineering at IIT Indore</p><p align="left">I’m currently learning Web development, App development, and DevOps</p>
+<p align="left">Hi, I am Mihir Patel from India</p> <p align="left">I’m currently studying Computer Science and engineering at IIT Indore</p><p align="left">I’m currently learning Web Development and Blockchain Development</p>
 
 
 ## 🌐 Socials:
